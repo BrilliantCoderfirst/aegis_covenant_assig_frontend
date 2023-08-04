@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aegis_covenant_assig_frontend/static/css/main.37ea1240.css",
-    "main.js": "/aegis_covenant_assig_frontend/static/js/main.55e10a7f.js",
+    "main.js": "/aegis_covenant_assig_frontend/static/js/main.ae11c4d6.js",
     "index.html": "/aegis_covenant_assig_frontend/index.html",
     "main.37ea1240.css.map": "/aegis_covenant_assig_frontend/static/css/main.37ea1240.css.map",
-    "main.55e10a7f.js.map": "/aegis_covenant_assig_frontend/static/js/main.55e10a7f.js.map"
+    "main.ae11c4d6.js.map": "/aegis_covenant_assig_frontend/static/js/main.ae11c4d6.js.map"
   },
   "entrypoints": [
     "static/css/main.37ea1240.css",
-    "static/js/main.55e10a7f.js"
+    "static/js/main.ae11c4d6.js"
   ]
 }
